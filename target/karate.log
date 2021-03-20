@@ -1,0 +1,122 @@
+23:01:09.328 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.ExamplesTest
+23:01:09.670 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Users/ErdinAlhas/Desktop/DemoKarate/target/test-classes/examples%5cusers%5cusers.feature
+23:01:11.153 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+23:01:16.204 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 4679
+23:01:17.324 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 158
+23:01:17.642 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+23:01:20.467 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 2572
+23:01:20.599 [main] INFO  com.intuit.karate.StepDefs - [print] created id is: 11
+23:10:17.475 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+23:10:18.471 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+23:10:21.209 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 2431
+23:10:23.292 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 132
+23:30:49.823 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.users.UsersRunner
+23:30:50.338 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Users/ErdinAlhas/Desktop/DemoKarate/target/test-classes/examples%5cusers%5cusers.feature
+23:30:52.008 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+23:30:54.662 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 2299
+23:30:56.048 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 117
+23:30:56.285 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+23:30:57.275 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 885
+23:30:57.403 [main] INFO  com.intuit.karate.StepDefs - [print] created id is: 11
+23:31:13.710 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.ExamplesTest
+23:31:13.999 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Users/ErdinAlhas/Desktop/DemoKarate/target/test-classes/examples%5cusers%5cusers.feature
+23:31:15.322 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+23:31:17.541 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1909
+23:31:18.535 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 121
+23:31:18.896 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+23:31:19.978 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 833
+23:31:20.068 [main] INFO  com.intuit.karate.StepDefs - [print] created id is: 11
+00:38:30.209 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.ExamplesTest
+00:38:30.585 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Users/ErdinAlhas/Desktop/DemoKarate/target/test-classes/examples%5cusers%5cusers.feature
+00:38:34.976 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1861
+00:38:35.317 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 103
+00:38:36.094 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 597
+00:38:36.119 [main] INFO  com.intuit.karate.StepDefs - [print] created id is: 11
+00:39:17.169 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+00:39:19.433 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1074
+00:40:36.240 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+00:40:38.832 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1243
+00:44:18.421 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+00:45:14.208 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+00:46:17.820 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+00:46:20.571 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1367
+00:46:20.718 [main] INFO  com.intuit.karate.StepDefs - [print] 7.4659
+00:48:11.257 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+00:48:13.813 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1172
+00:48:26.804 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+00:48:31.711 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 3726
+00:48:32.889 [main] INFO  com.intuit.karate.StepDefs - [print] 8.993
+00:52:11.307 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+00:52:12.236 [main] WARN  com.intuit.karate.ScriptContext - start-up configuration failed, missing or bad 'karate-config.js' - script failed: read('classpath:karate-config.js')
+00:53:04.454 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+00:53:05.518 [main] WARN  com.intuit.karate.ScriptContext - start-up configuration failed, missing or bad 'karate-config.js' - script failed: read('classpath:karate-config.js')
+00:53:20.207 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+00:53:21.370 [main] WARN  com.intuit.karate.ScriptContext - start-up configuration failed, missing or bad 'karate-config.js' - script failed: read('classpath:karate-config.js')
+00:54:31.440 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+00:54:33.629 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1020
+00:54:34.128 [main] INFO  com.intuit.karate.StepDefs - [print] 8.9581
+00:59:21.486 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+00:59:23.726 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 990
+00:59:23.811 [main] INFO  com.intuit.karate.StepDefs - [print] ["8.9581","8.8217","8.8013","8.8839"]
+01:00:02.100 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+01:00:04.711 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1208
+01:00:04.812 [main] INFO  com.intuit.karate.StepDefs - [print] ["8.9581","8.8217","8.8013","8.8839","8.993"]
+01:04:47.078 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+01:04:49.589 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1185
+01:04:50.619 [main] INFO  com.intuit.karate.StepDefs - [print] ["8.9581","8.8217","8.8013","8.8839","8.993"]
+01:04:50.850 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 88
+01:05:05.299 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+01:05:07.932 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1270
+01:05:08.035 [main] INFO  com.intuit.karate.StepDefs - [print] ["8.9581","8.8217","8.8013","8.8839","8.993"]
+01:05:08.110 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 58
+01:05:32.139 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+01:05:34.576 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1164
+01:05:35.223 [main] INFO  com.intuit.karate.StepDefs - [print] ["8.9581","8.8217","8.8013","8.8839","8.993"]
+01:05:35.409 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 68
+01:08:01.900 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+01:08:04.598 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1217
+01:08:04.708 [main] INFO  com.intuit.karate.StepDefs - [print] ["8.9581","8.8217","8.8013","8.8839","8.993"]
+01:08:04.714 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+01:08:50.107 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+01:09:16.820 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+01:09:19.317 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1185
+01:09:19.435 [main] INFO  com.intuit.karate.StepDefs - [print] 8.9581
+01:09:52.258 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+01:09:54.839 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1166
+01:09:54.963 [main] INFO  com.intuit.karate.StepDefs - [print] ["8.9581","8.8217","8.8013","8.8839","8.993"]
+01:09:54.968 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\DemoKarate
+01:09:55.381 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 294
+01:09:55.455 [main] INFO  com.intuit.karate.StepDefs - [print] ["7.3841","7.316","7.3248","7.3524","7.4659"]
+10:34:44.106 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.users.UsersRunner
+10:34:44.473 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Users/ErdinAlhas/Desktop/Trendyol/DemoKarate/target/test-classes/examples%5cusers%5cusers.feature
+10:34:47.924 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1247
+10:34:48.068 [main] INFO  com.intuit.karate.StepDefs - [print] ["8.9581","8.8217","8.8013","8.8839","8.993"]
+10:34:48.483 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 299
+10:34:48.516 [main] INFO  com.intuit.karate.StepDefs - [print] ["7.3841","7.316","7.3248","7.3524","7.4659"]
+12:42:53.372 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\Trendyol\DemoKarate
+12:42:54.588 [main] WARN  com.intuit.karate.Script - no var found with name: a
+12:42:54.666 [main] INFO  com.intuit.karate.StepDefs - [print] null
+12:43:38.822 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\Trendyol\DemoKarate
+12:44:50.432 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\Trendyol\DemoKarate
+12:44:51.914 [main] WARN  com.intuit.karate.Script - no var found with name: response
+12:44:51.950 [main] INFO  com.intuit.karate.StepDefs - [print] null
+12:48:48.629 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\Trendyol\DemoKarate
+12:48:49.997 [main] WARN  com.intuit.karate.Script - no var found with name: response
+13:01:40.517 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\Trendyol\DemoKarate
+13:01:47.864 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 5256
+13:01:48.205 [main] INFO  com.intuit.karate.StepDefs - [print] ["8.9581","8.8217","8.8013","8.8839","8.993"]
+13:02:45.799 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\Trendyol\DemoKarate
+13:02:49.611 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1878
+13:02:50.012 [main] INFO  com.intuit.karate.StepDefs - [print] []
+12:20:57.287 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\Trendyol\DemoKarate
+12:21:03.962 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 3231
+12:21:04.699 [main] INFO  com.intuit.karate.StepDefs - [print] ["8.9581","8.8217","8.8013","8.8839","8.993"]
+12:24:38.826 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\Trendyol\DemoKarate
+12:24:40.886 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 875
+12:24:40.980 [main] INFO  com.intuit.karate.StepDefs - [print] ["7.3841","7.316","7.3248","7.3524","7.4659"]
+22:43:28.489 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\Trendyol\DemoKarate
+22:43:31.339 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1725
+22:43:32.574 [main] INFO  com.intuit.karate.StepDefs - [print] ["8.9581","8.8217","8.8013","8.8839","8.993"]
+22:43:32.626 [main] WARN  com.intuit.karate.StepDefs - unable to derive feature file path, using: C:\Users\ErdinAlhas\Desktop\Trendyol\DemoKarate
+22:43:33.759 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 615
+22:43:33.813 [main] INFO  com.intuit.karate.StepDefs - [print] ["7.3841","7.316","7.3248","7.3524","7.4659"]
